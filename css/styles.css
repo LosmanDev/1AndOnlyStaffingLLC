@@ -11902,6 +11902,10 @@ header.masthead .h1 {
   font-size: 20px;
 }
 
+.email-clr {
+  color: #643193;
+}
+
 /* Portrait */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .brand-img {
